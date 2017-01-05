@@ -1,0 +1,12 @@
+
+.container {
+  margin-left: 200px;
+}
+
+.sidebar {
+  float: left;
+}
+
+#title {
+  color: blue;
+}
