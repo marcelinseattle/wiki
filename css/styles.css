@@ -10,3 +10,18 @@
 #title {
   color: blue;
 }
+
+.box-title {
+  padding: 5px;
+  font-style: bold;
+  border: solid black;
+}
+
+.links {
+  float: right;
+
+}
+
+.purple {
+  background-color: #EE82EE;
+}
