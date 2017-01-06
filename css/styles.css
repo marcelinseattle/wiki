@@ -5,6 +5,7 @@
 
 .sidebar {
   float: left;
+  position: absolute;
 }
 
 #title {
